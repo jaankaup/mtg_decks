@@ -96,5 +96,7 @@
 		<card><name id="4ed/364">Plains</name><set>4e</set></card>
 		<card><name id="4ed/5">Armageddon</name><set>4e</set></card>
 		<card><name id="fem/15">Icatian Town</name><set>fe</set></card>
+		<card><name id="drk/12">Martyr&apos;s Cry</name><set>dark</set></card>
+		<card><name id="pcy/4">Blessed Wind</name><set>prophecy</set></card>
 	</superzone>
 </deck>
