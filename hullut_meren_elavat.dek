@@ -107,5 +107,9 @@
 		<card><name id="s99/23">Righteous Fury</name><set>starter</set></card>
 		<card><name id="s99/23">Righteous Fury</name><set>starter</set></card>
 		<card><name id="s99/23">Righteous Fury</name><set>starter</set></card>
+		<card><name id="all/28">Force of Will</name><set>alliances</set></card>
+		<card><name id="all/28">Force of Will</name><set>alliances</set></card>
+		<card><name id="2ed/48">Ancestral Recall</name><set>unlimited</set></card>
+		<card><name id="2ed/48">Ancestral Recall</name><set>unlimited</set></card>
 	</superzone>
 </deck>

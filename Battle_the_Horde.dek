@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/1">Minotaur Goreseeker</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/2">Minotaur Younghorn</name><set>tbth</set></card>
+		<card><name id="tbth/3">Mogis&apos;s Chosen</name><set>tbth</set></card>
+		<card><name id="tbth/3">Mogis&apos;s Chosen</name><set>tbth</set></card>
+		<card><name id="tbth/3">Mogis&apos;s Chosen</name><set>tbth</set></card>
+		<card><name id="tbth/3">Mogis&apos;s Chosen</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/4">Phoberos Reaver</name><set>tbth</set></card>
+		<card><name id="tbth/5">Reckless Minotaur</name><set>tbth</set></card>
+		<card><name id="tbth/5">Reckless Minotaur</name><set>tbth</set></card>
+		<card><name id="tbth/5">Reckless Minotaur</name><set>tbth</set></card>
+		<card><name id="tbth/5">Reckless Minotaur</name><set>tbth</set></card>
+		<card><name id="tbth/6">Consuming Rage</name><set>tbth</set></card>
+		<card><name id="tbth/6">Consuming Rage</name><set>tbth</set></card>
+		<card><name id="tbth/7">Descend on the Prey</name><set>tbth</set></card>
+		<card><name id="tbth/7">Descend on the Prey</name><set>tbth</set></card>
+		<card><name id="tbth/8">Intervention of Keranos</name><set>tbth</set></card>
+		<card><name id="tbth/8">Intervention of Keranos</name><set>tbth</set></card>
+		<card><name id="tbth/9">Touch of the Horned God</name><set>tbth</set></card>
+		<card><name id="tbth/9">Touch of the Horned God</name><set>tbth</set></card>
+		<card><name id="tbth/10">Unquenchable Fury (Battle the Horde)</name><set>tbth</set></card>
+		<card><name id="tbth/10">Unquenchable Fury (Battle the Horde)</name><set>tbth</set></card>
+		<card><name id="tbth/11">Altar of Mogis</name><set>tbth</set></card>
+		<card><name id="tbth/12">Massacre Totem</name><set>tbth</set></card>
+		<card><name id="tbth/13">Plundered Statue</name><set>tbth</set></card>
+		<card><name id="tbth/13">Plundered Statue</name><set>tbth</set></card>
+		<card><name id="tbth/14">Refreshing Elixir</name><set>tbth</set></card>
+		<card><name id="tbth/14">Refreshing Elixir</name><set>tbth</set></card>
+		<card><name id="tbth/15">Vitality Salve</name><set>tbth</set></card>
+	</superzone>
+</deck>

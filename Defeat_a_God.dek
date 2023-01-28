@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tdag/4">Maddened Oread</name><set>tdag</set></card>
+		<card><name id="tdag/4">Maddened Oread</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/3">Ecstatic Piper</name><set>tdag</set></card>
+		<card><name id="tdag/5">Pheres-Band Revelers</name><set>tdag</set></card>
+		<card><name id="tdag/5">Pheres-Band Revelers</name><set>tdag</set></card>
+		<card><name id="tdag/5">Pheres-Band Revelers</name><set>tdag</set></card>
+		<card><name id="tdag/5">Pheres-Band Revelers</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+		<card><name id="tdag/6">Serpent Dancers</name><set>tdag</set></card>
+		<card><name id="tdag/6">Serpent Dancers</name><set>tdag</set></card>
+		<card><name id="tdag/7">Wild Maenads</name><set>tdag</set></card>
+		<card><name id="tdag/7">Wild Maenads</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/8">Impulsive Charge</name><set>tdag</set></card>
+		<card><name id="tdag/9">Impulsive Destruction</name><set>tdag</set></card>
+		<card><name id="tdag/9">Impulsive Destruction</name><set>tdag</set></card>
+		<card><name id="tdag/10">Impulsive Return</name><set>tdag</set></card>
+		<card><name id="tdag/10">Impulsive Return</name><set>tdag</set></card>
+		<card><name id="tdag/10">Impulsive Return</name><set>tdag</set></card>
+		<card><name id="tdag/10">Impulsive Return</name><set>tdag</set></card>
+		<card><name id="tdag/11">Rip to Pieces</name><set>tdag</set></card>
+		<card><name id="tdag/11">Rip to Pieces</name><set>tdag</set></card>
+		<card><name id="tdag/12">Xenagos&apos;s Scorn</name><set>tdag</set></card>
+		<card><name id="tdag/12">Xenagos&apos;s Scorn</name><set>tdag</set></card>
+		<card><name id="tdag/12">Xenagos&apos;s Scorn</name><set>tdag</set></card>
+		<card><name id="tdag/13">Xenagos&apos;s Strike</name><set>tdag</set></card>
+		<card><name id="tdag/13">Xenagos&apos;s Strike</name><set>tdag</set></card>
+		<card><name id="tdag/13">Xenagos&apos;s Strike</name><set>tdag</set></card>
+		<card><name id="tdag/13">Xenagos&apos;s Strike</name><set>tdag</set></card>
+		<card><name id="tdag/13">Xenagos&apos;s Strike</name><set>tdag</set></card>
+		<card><name id="tdag/14">Dance of Flame</name><set>tdag</set></card>
+		<card><name id="tdag/14">Dance of Flame</name><set>tdag</set></card>
+		<card><name id="tdag/15">Dance of Panic</name><set>tdag</set></card>
+		<card><name id="tdag/15">Dance of Panic</name><set>tdag</set></card>
+	</superzone>
+	<superzone name="Command">
+		<card><name id="tdag/1">Xenagos Ascended</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+		<card><name id="tdag/2">Rollicking Throng</name><set>tdag</set></card>
+	</superzone>
+</deck>

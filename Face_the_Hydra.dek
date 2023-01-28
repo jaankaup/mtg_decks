@@ -1,0 +1,69 @@
+<deck version="0.8">
+	<meta>
+		<game>magic</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="tfth/2">Ravenous Brute Head</name><set>tfth</set></card>
+		<card><name id="tfth/2">Ravenous Brute Head</name><set>tfth</set></card>
+		<card><name id="tfth/2">Ravenous Brute Head</name><set>tfth</set></card>
+		<card><name id="tfth/2">Ravenous Brute Head</name><set>tfth</set></card>
+		<card><name id="tfth/3">Savage Vigor Head</name><set>tfth</set></card>
+		<card><name id="tfth/5">Snapping Fang Head</name><set>tfth</set></card>
+		<card><name id="tfth/4">Shrieking Titan Head</name><set>tfth</set></card>
+		<card><name id="tfth/6">Disorienting Glower</name><set>tfth</set></card>
+		<card><name id="tfth/6">Disorienting Glower</name><set>tfth</set></card>
+		<card><name id="tfth/6">Disorienting Glower</name><set>tfth</set></card>
+		<card><name id="tfth/6">Disorienting Glower</name><set>tfth</set></card>
+		<card><name id="tfth/6">Disorienting Glower</name><set>tfth</set></card>
+		<card><name id="tfth/7">Distract the Hydra</name><set>tfth</set></card>
+		<card><name id="tfth/7">Distract the Hydra</name><set>tfth</set></card>
+		<card><name id="tfth/7">Distract the Hydra</name><set>tfth</set></card>
+		<card><name id="tfth/7">Distract the Hydra</name><set>tfth</set></card>
+		<card><name id="tfth/7">Distract the Hydra</name><set>tfth</set></card>
+		<card><name id="tfth/8">Grown from the Stump</name><set>tfth</set></card>
+		<card><name id="tfth/8">Grown from the Stump</name><set>tfth</set></card>
+		<card><name id="tfth/8">Grown from the Stump</name><set>tfth</set></card>
+		<card><name id="tfth/8">Grown from the Stump</name><set>tfth</set></card>
+		<card><name id="tfth/9">Hydra&apos;s Impenetrable Hide</name><set>tfth</set></card>
+		<card><name id="tfth/9">Hydra&apos;s Impenetrable Hide</name><set>tfth</set></card>
+		<card><name id="tfth/9">Hydra&apos;s Impenetrable Hide</name><set>tfth</set></card>
+		<card><name id="tfth/9">Hydra&apos;s Impenetrable Hide</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/10">Neck Tangle</name><set>tfth</set></card>
+		<card><name id="tfth/12">Strike the Weak Spot</name><set>tfth</set></card>
+		<card><name id="tfth/12">Strike the Weak Spot</name><set>tfth</set></card>
+		<card><name id="tfth/13">Swallow the Hero Whole</name><set>tfth</set></card>
+		<card><name id="tfth/13">Swallow the Hero Whole</name><set>tfth</set></card>
+		<card><name id="tfth/13">Swallow the Hero Whole</name><set>tfth</set></card>
+		<card><name id="tfth/13">Swallow the Hero Whole</name><set>tfth</set></card>
+		<card><name id="tfth/13">Swallow the Hero Whole</name><set>tfth</set></card>
+		<card><name id="tfth/14">Torn Between Heads</name><set>tfth</set></card>
+		<card><name id="tfth/14">Torn Between Heads</name><set>tfth</set></card>
+		<card><name id="tfth/14">Torn Between Heads</name><set>tfth</set></card>
+		<card><name id="tfth/14">Torn Between Heads</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/15">Unified Lunge</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+	</superzone>
+	<superzone name="Command">
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+		<card><name id="tfth/1">Hydra Head</name><set>tfth</set></card>
+	</superzone>
+</deck>
